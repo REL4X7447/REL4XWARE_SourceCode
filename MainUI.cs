@@ -42,7 +42,7 @@ namespace REL4XWARAE
 
         private void fastColoredTextBox1_Enter(object sender, EventArgs e)
         {
-            if (fastColoredTextBox1.Text == "--REL4XWARE ON TOP")
+            if (fastColoredTextBox1.Text == "--Script")
             {
                 fastColoredTextBox1.Text = "";
             }
